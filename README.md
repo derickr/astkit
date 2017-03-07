@@ -1,4 +1,4 @@
-PHP7 AST exporer
+PHP 7 AST explorer
 
 ### The API
 
